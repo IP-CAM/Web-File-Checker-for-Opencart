@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for Opencart / tool / checks detects modified / hacked files / configuration
 
-(see https://www.opencart.com/index.php?route=extension/extension/info&extension_id=28225&filter_search=WebFileChecker or http://ooawebstore.freeforums.org/)
+(see https://www.opencart.com/index.php?route=extension/extension/info&extension_id=28225&filter_search=WebFileChecker or https://ooawebstore.freeforums.org/)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
