@@ -51,4 +51,4 @@ Such a script was there already for OsCommerce (but more extensive). I tried the
 
 Problem: sometimes "require('../' . 'config.php');" does not work.
 
-Replace with: "require(dirname(dirname(__FILE__)) . '/config.php');"!
+Replace with: "require(dirname(dirname(__ FILE __)) . '/config.php');"! (no spaces around FILE)
