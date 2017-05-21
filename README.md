@@ -1,4 +1,4 @@
-# WebFileChecker-OpenCart
+# WebFileChecker-OpenCart ("Web File Checker")
 
 WebFileChecker extension / module for Opencart / tool / checks detects modified / hacked files / configuration
 
